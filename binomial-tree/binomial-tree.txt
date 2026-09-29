@@ -1,0 +1,12 @@
+Properties of binomial trees
+----------------------------
+
+1. Binomial tree with order K, has k children at root
+2. B(k) can be formed by using two B(k - 1) trees
+3. The root of one B(k - 1) will be the leftmost child of the root of the other B(k - 1) tree
+4. THey are not balanced tress and they are not binary trees
+
+5. 
+
+
+
